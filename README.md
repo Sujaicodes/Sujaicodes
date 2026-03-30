@@ -1,24 +1,74 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>Hi, I'm **Sujai Shukla** 👋  <br>A passionate developer focused on building **AI-driven, scalable, and impactful solutions**.<br><br>- 🔭 Currently working on: **Smart Location Intelligence Agent**<br>- 🌱 Learning: **Machine Learning, Data Science, System Design**<br>- 💡 Interests: **AI/ML, Data Analytics, Geospatial Systems, Full Stack Development**<br>- 🛠️ Tech Stack: Python | C | JavaScript | React | Git | Cloud (GCP/AWS)<br>- 📊 **Data Analyst & AI Engineer**<br>- 🚀 Goal: Build products that solve **real-world problems at scale**<br><br>---<br><br>## 🧠 What I Do<br>- Build intelligent systems using **AI/ML**<br>- Work on **data-driven applications**<br>- Explore **real-world problem solving through tech**<br>- Participate in **hackathons & innovative projects**<br><br>---<br><br>⭐ *“Turning data into decisions and ideas into impactful solutions.”*
+<h1 align="center">Hi 👋, I'm Sujai Shukla</h1>
+<h3 align="center">🚀 Data Analyst Intern | AI/ML Enthusiast | Building Intelligent Systems</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sujai-shukla-74a3413b6) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sujai Shukla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujaishukla55555@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) ![Three js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sujaicodes&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sujaicodes&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujaicodes&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sujaicodes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sujaicodes&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+Data+%7C+Innovation;Smart+Location+Intelligence+Agent;Future+AI+Engineer+%F0%9F%A4%96;Turning+Data+into+Decisions" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sujaicodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+## 🧠 About Me
+- 💼 Data Analyst Intern  
+- 🔭 Building **Smart Location Intelligence Agent**
+- 🌱 Learning: **Machine Learning, System Design, Cloud**
+- 🧩 Love solving **real-world problems using AI & Data**
+- 🎯 Goal: Build **impactful & scalable systems**
+
+---
+
+## ⚙️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,js,react,git,github,linux,aws,gcp" />
+</p>
+
+---
+
+## 🚀 Featured Project
+<p align="center">
+  📍 <b>Smart Location Intelligence Agent</b><br>
+  AI-powered system for intelligent navigation, recommendations & geospatial insights
+</p>
+
+---
+
+## 📊 GitHub Stats (Live)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujaicodes&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujaicodes&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujaicodes&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (AUTO-ANIMATED)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sujaicodes/Sujaicodes/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🧩 Fun Visual Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sujaicodes&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+## 💡 Quote
+<p align="center">
+  ⭐ <i>"Turning data into decisions and ideas into impactful solutions."</i>
+</p>
