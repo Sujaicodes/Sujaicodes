@@ -14,8 +14,8 @@ jobs:
         with:
           github_user_name: Sujaicodes
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
