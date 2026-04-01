@@ -95,7 +95,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sujaicodes/Sujaicodes/blob/output/pacman-contribution-graph.svg?raw=true">
   <img alt="pacman contribution graph" src="https://github.com/Sujaicodes/Sujaicodes/blob/output/pacman-contribution-graph.svg?raw=true">
 </picture>
-###
+
 
 <p align="left">If this work leaves a spark,  <br>Light it up with a ⭐ in the dark.</p>
 
