@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?<br>I am Sujai shukla, a passionate developer with a strong interest in Artificial Intelligence, Data Analytics, and scalable system design. Currently working as a Data Analyst Intern at Bluestock Fintech, I focus on transforming raw data into meaningful insights and building intelligent solutions that solve real-world problems. My core interests lie at the intersection of AI, data, and geospatial intelligence, where I enjoy creating systems that combine these domains to deliver impactful outcomes.</h1>
+<h1 align="center">Hey 👋What's Up?<br>I am Sujai shukla, a passionate developer with a strong interest in Artificial Intelligence, Data Analytics, and scalable system design. Currently working as a Data Analyst Intern at Bluestock Fintech, I focus on transforming raw data into meaningful insights and building intelligent solutions that solve real-world problems. My core interests lie at the intersection of AI, data, and geospatial intelligence, where I enjoy creating systems that combine these domains to deliver impactful outcomes.Below is a selection of the skills I have experience with or am familiar with:</h1>
 
 ###
 
